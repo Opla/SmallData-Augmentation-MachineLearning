@@ -1,9 +1,15 @@
-/**
- * Copyright (c) 2019-present, CWB SAS
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+"""
+Copyright (c) 2015-present, CWB SAS
+
+This source code is licensed under the MIT license found in the
+LICENSE file in the root directory of this source tree.
+
+__author__ = "Maali Mnasri"
+__copyright__ = "Copyright (c) 2015-present, CWB SAS - All Rights Reserved"
+"""
     
 from nltk import word_tokenize
 from nltk.corpus import stopwords
