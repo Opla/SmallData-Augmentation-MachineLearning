@@ -1,4 +1,6 @@
-# SmallData-Augmentation-MachineLearning
+# Text augmentation for Machine Learning tasks: 
+# How to grow your text dataset for classification?
+
 Text augmentation for Machine Learning tasks: How to grow your text dataset for classification?
 
 This is the implementation of some of data augmentation techniques we explained in our blog article .
